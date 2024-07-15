@@ -1,2 +1,2 @@
 # gitPractice
-testing repo telugu skillhub
+testing repo
